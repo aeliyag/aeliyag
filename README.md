@@ -1,4 +1,10 @@
-## Hi there 👋
+# Welcome
+- **Name:** Aeliya Grover
+- **Education:** University of Chicago, The Harker School 
+- **Interests:** Computer Science, Entrepreneurship
+- **Linked-In:** www.linkedin.com/in/aeliya-grover-50307b201
+
+## 
 
 <!--
 **aeliyag/aeliyag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
