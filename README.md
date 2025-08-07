@@ -3,6 +3,7 @@
 - **Education:** University of Chicago, The Harker School 
 - **Interests:** Computer Science, Entrepreneurship
 - **Linked-In:** www.linkedin.com/in/aeliya-grover-50307b201
+- **Personal Website** https://aeliyagrover.vercel.app/index.html
 
 ## 
 
